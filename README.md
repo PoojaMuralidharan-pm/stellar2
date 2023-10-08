@@ -1,2 +1,1 @@
-# stellar2
-expo version updated in the code
+# Stellar-Stage-2
